@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python, HTML and CSS
 - 🌱 I'm currently learning everything
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simo-SAN26)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radicalusername=Simo-SAN26)]
