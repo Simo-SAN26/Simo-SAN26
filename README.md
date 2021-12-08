@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-I'm Simone from Italy. I really enjoy learning languages and frameworks like is bootstrap a framework and Django. I also enjoy UI, UX, and design in general.
+I'm Simone from Italy. I really enjoy learning languages and frameworks like bootstrap and Django. I also enjoy UI, UX, and design in general.
 
 <h1>GITHUB STATS</h1>
 
